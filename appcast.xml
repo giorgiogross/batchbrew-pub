@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Batchbrew</title>
+        <item>
+            <title>0.0.10</title>
+            <pubDate>Thu, 05 Sep 2024 13:16:03 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/untagged-95594749af416040c504/Batchbrew-0.0.10+1.dmg" length="25270987" type="application/octet-stream" sparkle:edSignature="NKmewRRy0gl2ntdEqkmUf2eZLPDHEXb2MgbU6ZWyeASLbzhfXqfTrLERz3Sgbx1A4EAO7hJAVbRppuKPk6boCw=="/>
+        </item>
+    </channel>
+</rss>
