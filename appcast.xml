@@ -3,12 +3,31 @@
     <channel>
         <title>Batchbrew</title>
         <item>
+            <title>0.0.11</title>
+            <pubDate>Sun, 08 Sep 2024 16:36:13 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="25306099" type="application/octet-stream"
+                url="https://github.com/giorgiogross/batchbrew-pub/releases/download/0.0.11/Batchbrew-0.0.11+2.dmg"
+                sparkle:edSignature="n0Ifmucslx2Pz4WbnCGKH5v1ZMN2Xo7RCeDYyXI9EXFSTlv4xQ05vRyF8/vn/HqeE2hgqxwGHV4ijlPdIN0uBQ==" />
+            <sparkle:deltas>
+                <enclosure length="66670" type="application/octet-stream"
+                    url="https://github.com/giorgiogross/batchbrew-pub/releases/download/0.0.11/Batchbrew2-1.delta"
+                    sparkle:deltaFrom="1" sparkle:deltaFromSparkleExecutableSize="864752"
+                    sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en"
+                    sparkle:edSignature="aslT5ENpZ27702F39sAAZHLsaQ0pqh3H0yS1S0AnSPvsDm5xyuz4LDSb42Yjuo8URsh/tqsDDEcoDCuOAqF0Dg==" />
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.10</title>
-            <pubDate>Thu, 05 Sep 2024 13:16:03 +0200</pubDate>
+            <pubDate>Sun, 08 Sep 2024 16:33:30 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/untagged-95594749af416040c504/Batchbrew-0.0.10+1.dmg" length="25270987" type="application/octet-stream" sparkle:edSignature="NKmewRRy0gl2ntdEqkmUf2eZLPDHEXb2MgbU6ZWyeASLbzhfXqfTrLERz3Sgbx1A4EAO7hJAVbRppuKPk6boCw=="/>
+            <enclosure length="25306024" type="application/octet-stream"
+                url="https://github.com/giorgiogross/batchbrew-pub/releases/download/0.0.10/Batchbrew-0.0.10+1.dmg"
+                sparkle:edSignature="JxcWfoyjYfcfHO/DPUSwUx6nKUbPELp8wnmr8FA+1Vty8je5oj56C2NcjoxwwWiCiGNA8foXALT1weO4AwRQDQ==" />
         </item>
     </channel>
 </rss>
