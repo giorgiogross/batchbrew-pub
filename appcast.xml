@@ -3,6 +3,56 @@
     <channel>
         <title>Batchbrew</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Thu, 03 Oct 2024 23:50:38 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure
+                length="25402441"
+                type="application/octet-stream" url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.2/Batchbrew.dmg"
+                sparkle:edSignature="QzAgGrhNp7c7lK1UYjBC9MPwjRerXprgnkSmsr2i2o6i+spBQNuAw7wWDhD7F4malLRUzIPfFyWH46qZbvTtBQ==" />
+            <sparkle:deltas>
+                <enclosure
+                    length="3045498"
+                    type="application/octet-stream" url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.2/Batchbrew5-2.delta" sparkle:deltaFrom="2"
+                    sparkle:deltaFromSparkleExecutableSize="864752"
+                    sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en"
+                    sparkle:edSignature="UvvWvwFghpWIq0DSgjtVqN1FSOoviJHr302wi08ItIOUZ815CAPbzc+sWsq90M4cta8bZeIdvZ2kHoe4FXodDA==" />
+                <enclosure
+                    length="3044514"
+                    type="application/octet-stream" url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.2/Batchbrew5-1.delta" sparkle:deltaFrom="1"
+                    sparkle:deltaFromSparkleExecutableSize="864752"
+                    sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en"
+                    sparkle:edSignature="XbPzZdd517IElvYAEMyxYXlEaCO59bA4tLl5MJHru/fsNM0Gc4DdXQwUWrMYd3xM4gYkjKpiXj+5BaZNqgLbCA==" />
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 10 Sep 2024 14:12:32 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure
+                length="25402382"
+                type="application/octet-stream" url="https://github.com/giorgiogross/batchbrew-pub/releases/download/v1.0.1/Batchbrew.dmg"
+                sparkle:edSignature="Y8B2Ce03LutVz6Vaq/jfdI8iWvzYgj71sYv31A9gaIwCvipDTegQag4GfBDj10f8XIv8HHzP31HQe+qIGyF5CQ==" />
+            <sparkle:deltas>
+                <enclosure
+                    length="2017306"
+                    type="application/octet-stream" url="https://github.com/giorgiogross/batchbrew-pub/releases/download/v1.0.1/Batchbrew4-2.delta" sparkle:deltaFrom="2"
+                    sparkle:deltaFromSparkleExecutableSize="864752"
+                    sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en"
+                    sparkle:edSignature="tuXncryjDvbAtr6hH2CkJ+BgxBuHB73xeSxCfGnqs2UdMWz2it5IOhffiyBhLRsc583ftHUdV/DGDF18QzY3CA==" />
+                <enclosure
+                    length="2018486"
+                    type="application/octet-stream" url="https://github.com/giorgiogross/batchbrew-pub/releases/download/v1.0.1/Batchbrew4-1.delta" sparkle:deltaFrom="1"
+                    sparkle:deltaFromSparkleExecutableSize="864752"
+                    sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en"
+                    sparkle:edSignature="fSKKUuGGupZZ1hRwGjqNMuks6A+nTNynu5dejL7I4UMoxgD75gY34dYYkY5fyNBxqKl7xy20+TJEaFSRfew9BA==" />
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 10 Sep 2024 01:15:20 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
