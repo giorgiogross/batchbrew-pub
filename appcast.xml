@@ -3,6 +3,18 @@
     <channel>
         <title>Batchbrew</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Sat, 30 Nov 2024 18:28:50 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.8%2B14/Batchbrew.dmg" length="55181806" type="application/octet-stream" sparkle:edSignature="vJycW+aqIvlE5uDT8+4sijXs6/1OKeW9hzpzCMXA+WVK/bPjUHlzW1fRP2Z/U/uKsgDvD7V6a0C+WLwwAc/0DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.8%2B14/Batchbrew14-2.delta" sparkle:deltaFrom="2" length="22787410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="98Temmhl2FYOa+2/uZaFuEAJoUh474g9ebQ0VLK4XrNkZJOfOem3vdlssyFIEI/kGiaE+YK/WODG3rsbns/WAg=="/>
+                <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.8%2B14/Batchbrew14-1.delta" sparkle:deltaFrom="1" length="22765390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="TPhuYJTKuhYa+Plg0909C+XHjb+hAncvTq34zI/DaILE8n7I/cpCPhvc5Z1wVd4bDn7qcHh23t4TNxIa+uUiAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Mon, 18 Nov 2024 15:01:56 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -24,18 +36,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.6%2B9/Batchbrew9-2.delta" sparkle:deltaFrom="2" length="7548450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fk74jjLfldh4UPTrtlEJisLqtOKvBn+GF5u6LbN7RT3lxOt93pqGdBMeLRpiPFtb7agzwdSv54T1rAbHyEjwBg=="/>
                 <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.6%2B9/Batchbrew9-1.delta" sparkle:deltaFrom="1" length="7549666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="v0Ieb3dIZotEWGKIhXQ0ZFgp5Ip1IA0nzyCCTeKbsrjfvSQiFrWgrpQizFPPR7MGsLbXdCDdapMhecWe9qUFCA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Wed, 06 Nov 2024 16:20:25 +0100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.5%2B8/Batchbrew.dmg" length="30568879" type="application/octet-stream" sparkle:edSignature="rti8fTuGCCi9kbsr95xMCkjuPYxYWhlT0n2mGBjLYKY/Bmg9yBz7v3oUUFYIx7kdb+bm3pwR4ecxFpbDiH+TAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.5%2B8/Batchbrew8-2.delta" sparkle:deltaFrom="2" length="7550522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="BDmmJmovhMxKNcujcPejB4U4re8pyvqf8FHUHYoOYF2KrbloXZYF66+pBtS/CYhWJZWuVcnJm76KhHeCpj9kCQ=="/>
-                <enclosure url="https://github.com/giorgiogross/batchbrew-pub/releases/download/1.0.5%2B8/Batchbrew8-1.delta" sparkle:deltaFrom="1" length="7548870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eCUSmFOWY1FZSFtpHfq12IAoMl8GTfx7ymgDcFx2lU6H/Vr5SgiVcEtRaneU5nHmxJO2Y08w7WGkrEDyDfFzAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
